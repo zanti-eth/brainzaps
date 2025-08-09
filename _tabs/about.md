@@ -4,6 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+
+> ATENTIE!: Nu încercați niciodată să renunțați la antidepresive pe cont propriu, sub nicio formă! Consecințele unei încercări nereușite sau greșite pot fi severe și de lungă durată. Consultați întotdeauna un medic specialist înainte de a face orice modificare a tratamentului!
+{: .prompt-danger }
+
+
 # Despre acest blog
 
 Bun venit pe Brain Zaps, un website dedicat înțelegerii și gestionării sevrajului de la antidepresive si alte substante psihotrope.

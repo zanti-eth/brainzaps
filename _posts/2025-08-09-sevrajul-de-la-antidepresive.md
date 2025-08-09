@@ -1,7 +1,7 @@
 ---
 title: Introducere în sevrajul de la antidepresive
 description: O privire de ansamblu asupra sevrajului la întreruperea tratamentului cu antidepresive, simptomele și importanța suportului medical.
-author: echipa brainzaps
+author: echipa
 date: 2025-08-09 12:00:00 +0300
 categories: [Sevraj, Antidepresive]
 tags: [antidepresive, sevraj, ssri, snri]

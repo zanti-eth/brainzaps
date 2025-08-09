@@ -150,7 +150,7 @@ pwa:
 
 paginate: 10
 
-# The base URL of your site
+# The base URL of your sit
 baseurl: "/brainzaps"
 
 # ------------ The following options are not recommended to be modified ------------------
